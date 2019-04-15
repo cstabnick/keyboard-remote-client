@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard Remote</string>
+    <string name="instructions">This application functions using gestures,</string>
+    <string name="instructions2">please press with two fingers to set up the application.</string>
+</resources>
